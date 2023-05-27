@@ -748,9 +748,7 @@
 				&nbsp;</td>
 			<td>
 				<span style="font-size:16px;">デニム</span></td>
-			
 		</tr>
-	</tbody>
 </table>
 <table align="center" border="1" cellpadding="1" cellspacing="1" style="width: 500px;">
 	<tbody>
