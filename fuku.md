@@ -741,7 +741,6 @@
 				<span style="font-size:16px;">刺繍（ししゅう）</span></td>
 		</tr>
 		<tr>
-			
 			<td>
 				<span style="font-size:16px;">牛仔布料</span></td>
 			<td>
@@ -749,6 +748,7 @@
 			<td>
 				<span style="font-size:16px;">デニム</span></td>
 		</tr>
+</tbody>
 </table>
 <table align="center" border="1" cellpadding="1" cellspacing="1" style="width: 500px;">
 	<tbody>
